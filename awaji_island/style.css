@@ -25,7 +25,7 @@ header {
 /* コンテンツCSS */
 .awaji-photo {
   width: 100vw;
-  height: calc(100vh - 130px);
+  height: 100vh;
 }
 /* コンテンツCSS */
 
