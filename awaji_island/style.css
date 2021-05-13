@@ -29,11 +29,21 @@ header {
 }
 
 .bridge {
-  display: flex;
+  /* display: flex; */
 }
 
 .bridge-title {
+  width: 100vw;
+  font-size: 22px;
+}
 
+.awaji-bridge {
+  width: 800px;
+  height: 500px;
+}
+
+.explain {
+  width: calc(100vw - 800px);
 }
 
 /* コンテンツCSS */
