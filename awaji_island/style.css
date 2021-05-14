@@ -28,22 +28,33 @@ header {
   height: 100vh;
 }
 
-.bridge {
-  /* display: flex; */
+.bridge-header {
+  position: relative;
+  left: 400px;
+  top: 250px;
+}
+
+.bridge-body {
+  display: flex;
+  position: absolute;
 }
 
 .bridge-title {
   width: 100vw;
-  font-size: 22px;
+  font-size: 38px;
+  font-weight: bold;
 }
 
 .awaji-bridge {
   width: 800px;
   height: 500px;
+
 }
 
 .explain {
   width: calc(100vw - 800px);
+  font-size: 18px;
+  font-weight: bold;
 }
 
 /* コンテンツCSS */
