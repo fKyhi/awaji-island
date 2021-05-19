@@ -29,14 +29,14 @@ header {
 }
 
 .bridge-header {
-  position: relative;
+  /* position: relative;
   left: 400px;
-  top: 250px;
+  top: 250px; */
 }
 
 .bridge-body {
   display: flex;
-  position: absolute;
+  /* position: absolute; */
 }
 
 .bridge-title {
